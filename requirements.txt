@@ -1,5 +1,24 @@
+# Streamlit web app
 streamlit
+
+# Data manipulation
 pandas
 numpy
-scikit-learn
+
+# Finance data
 yfinance
+
+# Technical indicators
+ta
+
+# Machine learning
+scikit-learn
+
+# Optional: for better plotting and charts (used by Streamlit)
+altair
+
+# Utilities for Streamlit rich logging
+rich
+markdown-it-py
+mdurl
+pygments
